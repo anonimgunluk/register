@@ -1,11 +1,11 @@
 {
-  "description": "Ankit Chaubey's GitHub page",
+  "description": "AnonimGunluk's GitHub page",
   "repo": "https://github.com/anonimgunluk/anonimgunluk",
   "owner": {
     "username": "anonimgunluk",
     "github": "anonimgunluk"
   },
   "record": {
-    "CNAME": "anonimgunluk.github.io"
+    "CNAME": "anonimgunluk.github.io/anonimgunluk"
   }
 }
